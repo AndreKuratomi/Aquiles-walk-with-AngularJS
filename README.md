@@ -3,7 +3,7 @@
 <!DOCTYPE html>
 <html>
 <body>
-<script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.6.9/angular.min.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.6.9/angular.min.js"> </script>
 
 <div data-ng-app="" data-ng-init="caminhada=0;distance=20">
 
