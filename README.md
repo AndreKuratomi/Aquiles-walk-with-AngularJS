@@ -9,8 +9,8 @@
 
 <h2>Aquiles' walk</h2>
 
-Caminhada: <input type="number" data-ng-model="walk">
- Distância: <input type="number" data-ng-model="distance">
+Walk: <input type="number" data-ng-model="walk">
+Distance: <input type="number" data-ng-model="distance">
 
 <p><b>He walked: </b><span ng-bind="distance/2**walk"></span><b> metters</b></p>
 
